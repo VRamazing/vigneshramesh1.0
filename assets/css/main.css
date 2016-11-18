@@ -2351,7 +2351,7 @@
 		-webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
-		background: #544d55;
+		background:  #7c3a86;
 		border-radius: 4px;
 		border: 0;
 		color: #ffffff;
@@ -2534,9 +2534,9 @@
 		background-image: url("images/top-3200.svg"), url("images/overlay.png"), url("../../images/header.jpg");
 		background-position: bottom center,					top left,				center center;
 		background-repeat: repeat-x,						repeat,					no-repeat;
-		background-size: 3200px 460px,					auto,					cover;
+		background-size: 3200px 400px,					auto,					cover;
 		color: rgba(255, 255, 255, 0.8);
-		padding: 10em 0 20em 0;
+		padding: 10em 0 10em 0;
 		position: relative;
 		text-align: center;
 	}
@@ -2849,7 +2849,7 @@
 				background-attachment: scroll,							scroll,							scroll;
 				background-image: url("images/top-1600.svg"), url("images/overlay.png"), url("../../images/header.jpg");
 				background-size: 1600px 230px,					auto,							cover;
-				padding: 6em 0 12em 0;
+				padding: 6em 0 6em 0;
 			}
 
 				#header:before {
@@ -3224,7 +3224,7 @@ to {
     -webkit-animation: Animate-CSS 5s;
     -moz-animation: Animate-CSS 5s;
     -o-animation: Animate-CSS 5s;
-    width: 70%;
+    width: 80%;
     height: 50px;
     position: absolute;
     background-color: #55a69f;
@@ -3234,25 +3234,25 @@ to {
     width: 10px;
 }
 to {
-    width: 70%}
+    width: 80%}
 }@-webkit-keyframes Animate-CSS {
     from {
     width: 10px;
 }
 to {
-    width: 70%}
+    width: 80%}
 }@-moz-keyframes Animate-CSS {
     from {
     width: 10px;
 }
 to {
-    width: 70%}
+    width: 80%}
 }@-o-keyframes Animate-CSS {
     from {
     width: 10px;
 }
 to {
-    width: 70%}
+    width: 80%}
 }
 #Skill-JS {
     animation: Animate-JS 4s;
@@ -3517,3 +3517,5 @@ to {
     float: right;
     text-shadow: none;
 color: #fff;	}
+
+
